@@ -1,4 +1,4 @@
-# vuecars
+# VueJs with Data Grid
 
 ## Project setup
 ```
